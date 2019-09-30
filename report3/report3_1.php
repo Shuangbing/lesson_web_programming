@@ -9,7 +9,7 @@
 <body>
 <?php
     for ($i = 1; $i <= 500; $i++) {
-        echo $i.' ダミーの行<br>';
+        echo $i.' ダミーの行<br>\r\n';
     }
 ?>
 </body>
